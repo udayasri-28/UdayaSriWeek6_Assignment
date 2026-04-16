@@ -27,8 +27,8 @@ namespace ImageEncryptDecrypt
 
             string containerName = "data";
 
-            string inputImagePath = @"C:\Users\YOUR_PATH\input.png";
-            string outputImagePath = @"C:\Users\YOUR_PATH\output.jpg";
+            string inputImagePath = @"";
+            string outputImagePath = @"";
 
             string encryptedBlobName = "image.enc";
             string encryptedKeyBlobName = "key.enc";
